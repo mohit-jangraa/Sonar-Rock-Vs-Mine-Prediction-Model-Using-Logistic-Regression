@@ -137,8 +137,8 @@ The model is trained using **Logistic Regression** from Scikit-Learn.
 The model performance is evaluated using:
 
 - Accuracy Score
-- Confusion Matrix *(if included)*
-- Classification Report *(if included)*
+- Confusion Matrix 
+- Classification Report 
 
 Example:
 
@@ -170,20 +170,6 @@ Example Output
 ```
 Prediction: Rock
 ```
-
----
-
-## 📸 Project Screenshots
-
-Add screenshots inside an `images/` folder.
-
-Example:
-
-- Dataset Preview
-- Model Training
-- Accuracy Score
-- Confusion Matrix
-- Prediction Result
 
 ---
 
